@@ -1,46 +1,65 @@
-### Hi there, I'm Kosanam Srinivas! 👋
+# Hi there, I'm Kosanam Srinivas! 👋
 
-I am a passionate software developer with a strong interest in testing, frontend development, and programming. I enjoy exploring new technologies and continuously enhancing my skills.
+I am a Programmer Analyst with nearly 3 years of experience in software development, specializing in Data Engineering, Backend Architecture, and AI Integration. I enjoy building scalable ETL pipelines, optimizing complex databases, and exploring how Generative AI can extract insights from data. With a strong foundation in automated testing, I am passionate about delivering robust, end-to-end software solutions.
 
-### 🌱 Currently Learning
+---
 
-- Exploring advanced testing methodologies.
-- Diving deeper into frontend frameworks like React.
-- Enhancing problem-solving skills through competitive coding.
+### 🚀 What I'm Currently Working On
+- **Engineering Data:** Building and maintaining ETL pipelines and performing data analysis using **Python** and **Pandas**.
+- **Backend Architecture:** Developing high-performance APIs and microservices using **FastAPI** and **Django**.
+- **Database Optimization:** Writing complex functions, procedures, and optimizing queries in **PostgreSQL**.
+- **AI Integration:** Leveraging **GitHub Copilot** and **Gemini** to accelerate development, and building GenAI applications to analyze e-commerce customer feedback.
+- **Continuous Learning:** Mastering **Data Structures and Algorithms (DSA)** in Python and expanding my frontend skills with **React**.
 
-### 💼 Skills and Tools
+---
 
-- **Testing Tools:** Selenium, TestNG, JUnit
-- **API Testing:** Spring RESTful APIs, Postman, Fast APIs
-- **Frontend Skills:** HTML, CSS, JavaScript, React (in progress)
-- **Programming Languages:** Java, Python, C
+### 💻 Tech Stack & Tools
 
-### 🚀 Projects
+| Category | Skills / Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C, JavaScript, SQL |
+| **Backend & Data** | Django, FastAPI, Pandas, Spring |
+| **Databases** | PostgreSQL |
+| **Testing** | Selenium, TestNG, JUnit, Postman |
+| **Frontend** | HTML, CSS, React |
+| **AI & Tools** | Generative AI, GitHub Copilot, Gemini, Git |
 
-1. **E-commerce Website (React):**
-   - Repository: [E-commerce Repo](link-to-repo)
-   - Description: Built a responsive e-commerce website using React, showcasing products with dynamic UI.
+---
 
-2. **Test Automation Framework (Selenium):**
-   - Repository: [Automation Framework Repo](link-to-repo)
-   - Description: Developed a robust test automation framework using Selenium and TestNG for end-to-end testing.
+### 🛠️ Featured Projects
 
-3. **Weather App (JavaScript):**
-   - Repository: [Weather App Repo](link-to-repo)
-   - Description: Created a simple weather app using HTML, CSS, and JavaScript to fetch and display weather information.
+#### 1. E-commerce GenAI Feedback Analyzer
+- **Description:** A generative AI application built with Python that automatically extracts patterns and generates summaries from massive datasets of e-commerce customer feedback.
+- **Tech Stack:** Python, Generative AI, Pandas
+
+#### 2. E-commerce Platform (Frontend)
+- **Repository:** [Link to Repo](#)
+- **Description:** A responsive e-commerce website showcasing dynamic product UIs and interactive user experiences.
+- **Tech Stack:** React, HTML, CSS, JavaScript
+
+#### 3. Test Automation Framework
+- **Repository:** [Link to Repo](#)
+- **Description:** A robust, end-to-end test automation framework engineered to ensure software reliability and streamline testing pipelines.
+- **Tech Stack:** Selenium WebDriver, TestNG, Java
+
+#### 4. Dynamic Weather Application
+- **Repository:** [Link to Repo](#)
+- **Description:** A web application that fetches and dynamically displays real-time weather information via API integration.
+- **Tech Stack:** JavaScript, HTML, CSS
+
+---
 
 ### 📜 Certifications
 
-1. **Selenium WebDriver with Java:**
-   - [Certificate Link](link-to-certification)
-   - Description: Completed a comprehensive course on Selenium WebDriver with Java, covering advanced automation concepts.
+- **Selenium WebDriver with Java:** Comprehensive certification covering advanced browser automation concepts. [View Certificate](#)
+- **REST API Testing with Postman:** Certified in request creation, API validation, and automated testing workflows. [View Certificate](#)
 
-2. **REST API Testing with Postman:**
-   - [Certificate Link](link-to-certification)
-   - Description: Certified in REST API testing using Postman, covering request creation, testing, and automation.
+---
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-profile)
-- Email: kosanamsrinivas562@gmail.com
-- Twitter: [Your Twitter Handle](your-twitter-handle)
+I am always open to discussing new technologies, data engineering challenges, or backend architecture. 
+
+- **LinkedIn:** [linkedin.com/in/your-profile](#)
+- **Email:** kosanamsrinivas562@gmail.com
+- **Twitter:** [@your-twitter-handle](#)
