@@ -60,6 +60,7 @@ I enjoy solving real-world problems using **Python**, **PostgreSQL**, and modern
 
 ### 🧪 Testing & Automation
 
+* Playwright
 * Selenium
 * TestNG
 * JUnit
